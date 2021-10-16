@@ -9,3 +9,8 @@
 
 ##### Wobbly Fowl is my attempt to recreate a Flappy Bird style game without the use of specific tutorials. This is also my first time at attempting to create my own pixel art and animations. In a future update, I will be attempting to increase the difficulty of the game as the player's gameplay time increases. 
 
+# Monster Chase
+### [CLICK ME TO PLAY!](https://toadkarter.github.io/Gamez-Playable/MonsterChase/index.html)
+##### Controls: Press Left and Right to move, Space to jump!
+
+##### Monster Chase is a short platformer style game developed by following along with freeCodeCamp's wonderful tutorial on Unity for beginners ([Link Here](youtube.com/watch?v=gB1F9G0JXOo)). All credit to assets and animations go to freeCodeCamp. I used this project to refresh myself on how Unity works after several months of not using the engine. 
